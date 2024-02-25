@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shri299/TailwindCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shri299/TailwindCSS/issues"
+  },
+  "homepage": "https://github.com/shri299/TailwindCSS#readme",
+  "dependencies": {
+    "tailwindcss": "^3.3.6"
+  }
+}
